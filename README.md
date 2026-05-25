@@ -1,8 +1,8 @@
 
 ## EX-2A-Virtualization: Installation and Configuration of Oracle VirtualBox & Kali Linux, and Execution of Linux Commands
 
-## NAME: REVATHI K
-## REG NO: 212223040169
+## NAME: Rahul Krishna S
+## REG NO: 212223040162
 
 ## Aim :
 To set up a virtualized environment using Oracle VirtualBox, install Kali Linux as a guest OS, and execute fundamental Linux commands.
